@@ -1,0 +1,23 @@
+3 - Analyze images
+Usei uma foto do Unsplash de pessoas nadando em um parque com golfinho, usei a ferramenta ADD CAPTIONS TO IMAGES.
+Resultado: A group of people watching dolphins jumping out of water
+
+-----------------------------------------------------------------------------------------------
+
+JSON
+
+{
+  "apim-request-id": "3daf74c2-346b-4bf6-ab4c-f5f754ae2984",
+  "content-length": "185",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a group of people watching dolphins jumping out of water",
+    "confidence": 0.7314403057098389
+  },
+  "metadata": {
+    "width": 3264,
+    "height": 2448
+  }
+}
+
